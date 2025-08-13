@@ -1,0 +1,2 @@
+// Optional: add interactivity here
+console.log("The Moon's Soil blog loaded!");

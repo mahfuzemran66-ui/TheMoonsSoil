@@ -1,0 +1,13 @@
+TheMoonsSoil/
+├─ index.html        # Homepage
+├─ about.html        # About page
+├─ _posts/
+│   └─ 2025-08-13-hey-misty-you-are-missed-a-lot.md  # First blog post
+├─ assets/
+│   ├─ css/
+│   │   └─ style.css   # Main CSS with pink theme
+│   ├─ images/
+│   │   └─ placeholder.jpg # Replace with your images
+│   └─ js/
+│       └─ script.js   # Optional interactivity
+└─ README.md
